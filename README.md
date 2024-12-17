@@ -8,4 +8,4 @@
 
 Hi! I am Martin - a Postdoc @ Harvard University. <br>
 I work on unlearning as well as privacy & robustness issues of large language models. <br>
-Previously, I was a PhD stundent @ University of Tübingen (Germany) & interned @ JP Morgan AI Research (UK).
+Previously, I was a PhD student @ University of Tübingen (Germany), a fellow @ MPI for Security and Privacy and I interned @ JP Morgan AI Research (UK).
