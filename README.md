@@ -7,5 +7,5 @@
 <!-- [<img src="https://img.shields.io/badge/twitch-blueviolet.svg?&style=for-the-badge&logo=twitch&logoColor=white" />](https://www.twitch.tv/roberttlange) -->
 
 Hi! I am Martin - a Postdoc @ Harvard University. <br>
-I work on unlearning as well as privacy & robustness issues of foundation models. <br>
+I work on unlearning as well as privacy & robustness issues of large language models. <br>
 Previously, I was a PhD stundent @ University of Tübingen (Germany) & interned @ JP Morgan AI Research (UK).
